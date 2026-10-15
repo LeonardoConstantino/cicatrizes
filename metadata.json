@@ -1,0 +1,6 @@
+{
+  "name": "CICATRIZ",
+  "description": "Arcade mutante e meta-roguelite onde dominar uma mecânica faz o mundo abandonar essa mecânica e herdar cicatrizes comportamentais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
